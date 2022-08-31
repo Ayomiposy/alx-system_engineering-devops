@@ -7,3 +7,4 @@ script 5-listfilesdigitonly will list content of cuurent working directory in lo
 script 6-firstdirectory will create a directory "my first directory" in the /tmp/ directory
 script 7-movethatfile will move file from one directory to another
 script 8-firstdelete will delete betty file
+script 9-firstdirdeletion will delete directory insid another directory
