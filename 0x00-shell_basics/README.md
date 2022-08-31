@@ -5,3 +5,4 @@ script 3-listfiles will list the content of current working directory
 script 4-listmorefiles will list the content of current working directory including hidden files
 script 5-listfilesdigitonly will list content of cuurent working directory in long format with user and group IDs
 script 6-firstdirectory will create a directory "my first directory" in the /tmp/ directory
+script 7-movethatfile will move file from one directory to another
