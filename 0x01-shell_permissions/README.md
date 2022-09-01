@@ -6,3 +6,4 @@ script 3-new_owner will change owner of file "hello" to betty
 script 4-empty  will create an empty hello file
 script 5-execute will adds execute permission to file "hello"
 script 6-multiple_permissions will adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+script 7-everybody will add execution to owner, group and other user
