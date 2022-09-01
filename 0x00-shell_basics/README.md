@@ -10,3 +10,4 @@ script 8-firstdelete will delete betty file
 script 9-firstdirdeletion will delete directory insid another directory
 script 10-back will return back to previous directory
 scritp 11-lists will list all files including hiiden files and the ones in parent directory and /boot files
+script 12-file_type will print a particular file name
