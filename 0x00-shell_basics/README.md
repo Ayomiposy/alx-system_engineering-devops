@@ -8,3 +8,4 @@ script 6-firstdirectory will create a directory "my first directory" in the /tmp
 script 7-movethatfile will move file from one directory to another
 script 8-firstdelete will delete betty file
 script 9-firstdirdeletion will delete directory insid another directory
+script 10-back will return back to previous directory
