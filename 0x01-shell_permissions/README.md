@@ -11,3 +11,4 @@ script 8-James_Bond will set permission for file hello
 script 9-John_Doe will set mode for file "hello"
 script 10-mirror_permissions will set mode of file olleh for file hello
 script 11-directories_permissions will add executable file to all subdirectory of current working direcetory
+script 12-directory_permissions will create a script called my_dir
