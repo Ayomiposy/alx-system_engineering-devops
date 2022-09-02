@@ -8,3 +8,4 @@ script 5-execute will adds execute permission to file "hello"
 script 6-multiple_permissions will adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 script 7-everybody will add execution to owner, group and other user
 script 8-James_Bond will set permission for file hello
+script 9-John_Doe will set mode for file "hello"
