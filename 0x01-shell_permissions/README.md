@@ -10,3 +10,4 @@ script 7-everybody will add execution to owner, group and other user
 script 8-James_Bond will set permission for file hello
 script 9-John_Doe will set mode for file "hello"
 script 10-mirror_permissions will set mode of file olleh for file hello
+script 11-directories_permissions will add executable file to all subdirectory of current working direcetory
