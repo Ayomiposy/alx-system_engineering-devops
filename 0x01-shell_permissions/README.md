@@ -13,3 +13,4 @@ script 10-mirror_permissions will set mode of file olleh for file hello
 script 11-directories_permissions will add executable file to all subdirectory of current working direcetory
 script 12-directory_permissions will create a script called my_dir
 script 13-change_group will change group owner to school
+script 100-change_owner_and_group will change owner and group
